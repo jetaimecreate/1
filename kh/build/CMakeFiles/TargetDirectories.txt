@@ -1,0 +1,3 @@
+/home/zqm/kh/build/CMakeFiles/video_player.dir
+/home/zqm/kh/build/CMakeFiles/edit_cache.dir
+/home/zqm/kh/build/CMakeFiles/rebuild_cache.dir
