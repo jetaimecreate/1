@@ -1,0 +1,3 @@
+/home/zqm/xz/build/CMakeFiles/rotate_image.dir
+/home/zqm/xz/build/CMakeFiles/edit_cache.dir
+/home/zqm/xz/build/CMakeFiles/rebuild_cache.dir
